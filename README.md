@@ -12,6 +12,7 @@ This repository consists of the slide deck used to present the information, a vi
 - [ConnectWise RDP (Demo) - Scotty Jokon](ConnectWise.md)
 - [BackUp (Demo) - Hector Cardova](Backup.md)
 - [One Drive and Back up Drive (Demo) - Tianna Farrow](onedriveandbackupdrive.md)
-
+- [pfSense and OpenVPN (Demo) - Dominique Bruso](pfsense_demo.md)
+  
 ## Systems Documentation
 - [Relevant Information for the use of the Virtual Machine](collaborative-project-document.pdf)
