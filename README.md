@@ -10,7 +10,8 @@ This repository consists of the slide deck used to present the information, a vi
 ## Videos from Slide Deck (Demo)
 - [Email Client Configuration (Demo) - Krystal Reid](emailconfiguration.md)
 - [ConnectWise RDP (Demo) - Scotty Jokon](ConnectWise.md)
-- [BackUp (Demo) - HectorCardova](Backup.md)
+- [BackUp (Demo) - Hector Cardova](Backup.md)
+- [One Drive and Back up Drive (Demo) - Tianna Farrow](onedriveandbackupdrive.md)
 
 ## Systems Documentation
 - [Relevant Information for the use of the Virtual Machine](collaborative-project-document.pdf)
